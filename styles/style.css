@@ -1,0 +1,178 @@
+body {
+	margin: 31px;
+	background-color: #979da8;
+}
+
+.main {
+	height: 1000px;
+	width: 800px;
+	background-color: #2F54FF;
+	margin: 0 auto;
+}
+
+.white {
+	height: 950px;
+	width: 540px;
+	background-color: #FFFFFF;
+	font-family: 'K2D', sans-serif;
+    font-size: 17px;
+}
+
+.text {
+	margin: 10px;
+	padding-top: 3px;
+}
+
+.text span {
+	font-size: 19px;
+}
+
+.face {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	float: right;
+	margin: 30px;
+	display: block;
+
+}
+.face img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+    margin-bottom: 40px;
+}
+
+.name {
+	background-color: #2A31FF;
+	float: right;
+	height: 85px;
+	width: 260px;
+	margin: -30px;
+	text-align: center;
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 35px;
+}
+
+.name h3 {
+	margin: 0px;
+	text-align: center;
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+}
+
+.info {
+	height: 130px;
+	width: 259px;
+    margin: -29px;
+    margin-top: 59px;
+    color: white;
+    text-align: left;
+    font-size: 15px;
+    padding: 5px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.info-right {
+	height: 130px;
+	width: 150px;
+	float: right;
+	margin: 3px;
+	text-align: right;
+	margin-top: -5px;
+	padding: 5px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.qualities {
+	background-color: #2A31FF;
+	height: 32px;
+	width: 260px;   
+    margin: 3px;
+    margin-left: -30px;
+    margin-top: 65px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 23px;
+    color: white;
+    text-align: center;
+}
+
+.my-qualities {
+    height: 160px;
+	width: 240px;
+	margin-left: -31px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 19px;
+	color: white;
+	text-align: left;
+	padding: 9px;
+}
+
+.languages {
+	background-color: #2A31FF;
+	height: 32px;
+	width: 260px;   
+    margin: 3px;
+    margin-left: -30px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 23px;
+    color: white;
+    text-align: center;
+}
+
+.lang-list {
+    height: 70px;
+	width: 240px;
+	margin-left: -31px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 19px;
+	color: white;
+	text-align: left;
+	padding: 9px;
+}
+
+.logo-footer {
+	height: 50px;
+	width: 520px;
+	margin-left: -488px;
+	margin-top: 100px;
+	display: inline-flex;
+}
+
+.linkedin {
+	height: 40px;
+	width: 40px;
+	padding: 7px;
+	margin-right: 29px;
+
+}
+
+.github {
+	height: 40px;
+	width: 40px;
+	padding: 7px;
+	margin-right: 29px;
+}
+
+.facebook {
+	height: 40px;
+	width: 40px;
+	padding: 7px;
+	margin-right: 29px;
+}
+
+.instagram {
+	height: 40px;
+	width: 40px;
+	padding: 7px;
+	margin-right: 29px;
+}
+
+.vk {
+	height: 40px;
+	width: 40px;
+	padding: 7px;
+	margin-right: 29px;
+}
